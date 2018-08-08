@@ -34,7 +34,4 @@ ___
 
 ## Helpful Links
 
-* +=: [w3schools](https://www.w3schools.com/js/js_assignment.asp)
-* %: [w3schools](https://www.w3schools.com/js/js_arithmetic.asp)
-
 [TOP](#index)
